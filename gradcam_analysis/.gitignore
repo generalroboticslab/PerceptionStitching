@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+*.png
+*.hdf5
+*pt
+*npy
+*.mp4
