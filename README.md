@@ -108,6 +108,10 @@ Experiment setup in the simulation
 Experiment setup in the real world
 ![ps_teaser](figures/4real.png)
 
+## License
+
+This repository is released under the Apache License 2.0. See [LICENSE](LICENSE) for additional details.
+
 ## Acknowledgement
 
 This project refers to the github repositories [robomimic](https://github.com/ARISE-Initiative/robomimic), 
