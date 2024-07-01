@@ -9,7 +9,7 @@
 Duke University
 <br>
 
-### [Project Website](https://generalroboticslab.com/PerceptionStitching) | [Video](https://youtu.be/H6SD9Tcvhrg) | [Paper](https://arxiv.org/abs/2406.19971)
+### [Project Website](http://generalroboticslab.com/PerceptionStitching/) | [Video](https://youtu.be/H6SD9Tcvhrg) | [Paper](https://arxiv.org/abs/2406.19971)
 
 ## Overview
 This repo contains the implementation for the paper *Perception Stitching: Zero-Shot Perception Encoder Transfer for Visuomotor Robot Policies*.
