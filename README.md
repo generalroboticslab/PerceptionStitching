@@ -16,27 +16,23 @@ This repo contains the implementation for the paper *Perception Stitching: Zero-
 
 ![pes_teaser](figures/teaser.png)
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # ()
-[//]: # (If you find our paper or codebase helpful, please consider citing:)
+If you find our paper or codebase helpful, please consider citing:
 
-[//]: # ()
-[//]: # (```)
+```
+@article{jian2024perception,
+  title={Perception Stitching: Zero-Shot Perception Encoder Transfer for Visuomotor Robot Policies},
+  author={Pingcheng Jian and Easop Lee and Zachary Bell and Michael M. Zavlanos and Boyuan Chen},
+  year={2024},
+  eprint={2406.19971},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2406.19971}, 
+} 
+```
 
-[//]: # (@inproceedings{jian2023policy,)
 
-[//]: # (  title={Policy Stitching: Learning Transferable Robot Policies},)
-
-[//]: # (  author={Jian, Pingcheng and Lee, Easop and Bell, Zachary and Zavlanos, Michael M and Chen, Boyuan},)
-
-[//]: # (  booktitle={7th Annual Conference on Robot Learning},)
-
-[//]: # (  year={2023})
-
-[//]: # (})
-
-[//]: # (```)
 
 ## Content
 
