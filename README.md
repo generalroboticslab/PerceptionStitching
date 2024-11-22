@@ -22,14 +22,14 @@ If you find our paper or codebase helpful, please consider citing:
 
 ```
 @article{jian2024perception,
-  title={Perception Stitching: Zero-Shot Perception Encoder Transfer for Visuomotor Robot Policies},
-  author={Pingcheng Jian and Easop Lee and Zachary Bell and Michael M. Zavlanos and Boyuan Chen},
-  year={2024},
-  eprint={2406.19971},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO},
-  url={https://arxiv.org/abs/2406.19971}, 
-} 
+title={Perception Stitching: Zero-Shot Perception Encoder Transfer for Visuomotor Robot Policies},
+author={Pingcheng Jian and Easop Lee and Zachary I. Bell and Michael M. Zavlanos and Boyuan Chen},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=tYxRyNT0TC},
+note={}
+}
 ```
 
 
